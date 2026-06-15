@@ -1,0 +1,12 @@
+{
+  "name": "bunpro-korean-gloss",
+  "version": "0.1.0",
+  "description": "Userscript: Korean grammar equivalents + Korean sentence translation on Bunpro review/study cards.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "author": "python3 scripts/author.py",
+    "build": "node scripts/build.mjs",
+    "generate": "node scripts/generate-glosses.mjs"
+  }
+}
