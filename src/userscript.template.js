@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Bunpro Korean Gloss
 // @namespace    jeeminhan.bunpro.korean
-// @version      0.5.2
+// @version      0.6.0
 // @description  Show a concise Korean equivalent for the grammar point + an inline Korean translation of the whole sentence on Bunpro review/study cards.
 // @author       Jeemin Han
+// @downloadURL  https://raw.githubusercontent.com/jeeminhan/bunpro-korean-gloss/main/dist/bunpro-korean-gloss.user.js
+// @updateURL    https://raw.githubusercontent.com/jeeminhan/bunpro-korean-gloss/main/dist/bunpro-korean-gloss.user.js
 // @match        https://bunpro.jp/*
 // @exclude      https://community.bunpro.jp/*
 // @grant        GM.xmlHttpRequest
