@@ -1,5 +1,910 @@
 [
  {
+  "title": "Adj限りだ",
+  "level": "N1",
+  "meaning": "Extremely"
+ },
+ {
+  "title": "Verb + だに",
+  "level": "N1",
+  "meaning": "Just"
+ },
+ {
+  "title": "Verb[て] + みせる",
+  "level": "N1",
+  "meaning": "I will definitely"
+ },
+ {
+  "title": "Verb[ない]もの(だ...",
+  "level": "N1",
+  "meaning": "(Why) can’t"
+ },
+ {
+  "title": "〜に〜ない",
+  "level": "N1",
+  "meaning": "Cannot even...if wants"
+ },
+ {
+  "title": "あくまでも",
+  "level": "N1",
+  "meaning": "To the (bitter) end"
+ },
+ {
+  "title": "あっての",
+  "level": "N1",
+  "meaning": "Exist only because of ..."
+ },
+ {
+  "title": "い-Adj[く] + も...",
+  "level": "N1",
+  "meaning": "Not... or anything"
+ },
+ {
+  "title": "いかなる",
+  "level": "N1",
+  "meaning": "What kind of"
+ },
+ {
+  "title": "いかん〜ず",
+  "level": "N1",
+  "meaning": "Regardless of (whateve..."
+ },
+ {
+  "title": "かたがた",
+  "level": "N1",
+  "meaning": "Partly for (the purpos..."
+ },
+ {
+  "title": "かたわら",
+  "level": "N1",
+  "meaning": "While"
+ },
+ {
+  "title": "からある",
+  "level": "N1",
+  "meaning": "As much as"
+ },
+ {
+  "title": "からする",
+  "level": "N1",
+  "meaning": "About"
+ },
+ {
+  "title": "かれ〜かれ",
+  "level": "N1",
+  "meaning": "Or"
+ },
+ {
+  "title": "か否か",
+  "level": "N1",
+  "meaning": "Whether or not"
+ },
+ {
+  "title": "がてら",
+  "level": "N1",
+  "meaning": "On the occasion of"
+ },
+ {
+  "title": "がん～",
+  "level": "N1",
+  "meaning": "Totally"
+ },
+ {
+  "title": "が早いか",
+  "level": "N1",
+  "meaning": "As soon as"
+ },
+ {
+  "title": "きらいがある",
+  "level": "N1",
+  "meaning": "Have a tendency to"
+ },
+ {
+  "title": "ぐらいなら",
+  "level": "N1",
+  "meaning": "Would rather...than"
+ },
+ {
+  "title": "ぐるみで",
+  "level": "N1",
+  "meaning": "Whole"
+ },
+ {
+  "title": "こそすれ〜ない",
+  "level": "N1",
+  "meaning": "And certainly not"
+ },
+ {
+  "title": "ことだし",
+  "level": "N1",
+  "meaning": "(And) so"
+ },
+ {
+  "title": "こととて",
+  "level": "N1",
+  "meaning": "Due to"
+ },
+ {
+  "title": "さぞ",
+  "level": "N1",
+  "meaning": "You must be very"
+ },
+ {
+  "title": "じゃあるまいし",
+  "level": "N1",
+  "meaning": "You are not ~ so..."
+ },
+ {
+  "title": "すら",
+  "level": "N1",
+  "meaning": "Even"
+ },
+ {
+  "title": "ずくめ",
+  "level": "N1",
+  "meaning": "Completely"
+ },
+ {
+  "title": "ずじまい",
+  "level": "N1",
+  "meaning": "Ended up not"
+ },
+ {
+  "title": "ずとも",
+  "level": "N1",
+  "meaning": "Even if not"
+ },
+ {
+  "title": "ずにはおかない",
+  "level": "N1",
+  "meaning": "Will definitely"
+ },
+ {
+  "title": "ずにはすまない",
+  "level": "N1",
+  "meaning": "Won't get away without"
+ },
+ {
+  "title": "そばから",
+  "level": "N1",
+  "meaning": "As soon as"
+ },
+ {
+  "title": "それまでだ",
+  "level": "N1",
+  "meaning": "If… then it is all in ..."
+ },
+ {
+  "title": "ただ〜のみ",
+  "level": "N1",
+  "meaning": "Nothing but"
+ },
+ {
+  "title": "たところで",
+  "level": "N1",
+  "meaning": "Even if ~ cannot or wi..."
+ },
+ {
+  "title": "たなり",
+  "level": "N1",
+  "meaning": "While... ~ing"
+ },
+ {
+  "title": "たら〜で",
+  "level": "N1",
+  "meaning": "Even if"
+ },
+ {
+  "title": "たら最後",
+  "level": "N1",
+  "meaning": "Once"
+ },
+ {
+  "title": "たる",
+  "level": "N1",
+  "meaning": "To be (in a position of)"
+ },
+ {
+  "title": "だに + しない",
+  "level": "N1",
+  "meaning": "Not even"
+ },
+ {
+  "title": "だの",
+  "level": "N1",
+  "meaning": "Things like"
+ },
+ {
+  "title": "ったら",
+  "level": "N1",
+  "meaning": "Cannot tell"
+ },
+ {
+  "title": "ったらない",
+  "level": "N1",
+  "meaning": "Cannot tell"
+ },
+ {
+  "title": "ってば",
+  "level": "N1",
+  "meaning": "I said...!"
+ },
+ {
+  "title": "つ〜つ",
+  "level": "N1",
+  "meaning": "two contrasting actions"
+ },
+ {
+  "title": "てからというもの",
+  "level": "N1",
+  "meaning": "After"
+ },
+ {
+  "title": "てはかなわない",
+  "level": "N1",
+  "meaning": "It's unbearable when"
+ },
+ {
+  "title": "ても差し支えない",
+  "level": "N1",
+  "meaning": "May"
+ },
+ {
+  "title": "てやまない",
+  "level": "N1",
+  "meaning": "Never cease to"
+ },
+ {
+  "title": "であれ",
+  "level": "N1",
+  "meaning": "Even if"
+ },
+ {
+  "title": "であれ〜であれ",
+  "level": "N1",
+  "meaning": "Whether or"
+ },
+ {
+  "title": "でなくてなんだろう",
+  "level": "N1",
+  "meaning": "If … is not … then wha..."
+ },
+ {
+  "title": "でもなんでもない",
+  "level": "N1",
+  "meaning": "Not at all"
+ },
+ {
+  "title": "とあって",
+  "level": "N1",
+  "meaning": "Since...(it is no wond..."
+ },
+ {
+  "title": "とあれば",
+  "level": "N1",
+  "meaning": "(Emphatic) if"
+ },
+ {
+  "title": "というところ",
+  "level": "N1",
+  "meaning": "I would say (about)"
+ },
+ {
+  "title": "といえども",
+  "level": "N1",
+  "meaning": "Even (if)"
+ },
+ {
+  "title": "といおうか",
+  "level": "N1",
+  "meaning": "How to put it"
+ },
+ {
+  "title": "といわず",
+  "level": "N1",
+  "meaning": "Not only A or B but ev..."
+ },
+ {
+  "title": "ときたら",
+  "level": "N1",
+  "meaning": "When it comes to"
+ },
+ {
+  "title": "ところを",
+  "level": "N1",
+  "meaning": "When"
+ },
+ {
+  "title": "との",
+  "level": "N1",
+  "meaning": "That"
+ },
+ {
+  "title": "とは",
+  "level": "N1",
+  "meaning": "That..."
+ },
+ {
+  "title": "とはいえ",
+  "level": "N1",
+  "meaning": "Though"
+ },
+ {
+  "title": "とは比べものにならない",
+  "level": "N1",
+  "meaning": "Nothing compared to"
+ },
+ {
+  "title": "とは言うものの",
+  "level": "N1",
+  "meaning": "Although"
+ },
+ {
+  "title": "とばかり（に）",
+  "level": "N1",
+  "meaning": "As if (to say)"
+ },
+ {
+  "title": "ともあろう",
+  "level": "N1",
+  "meaning": "Of all people"
+ },
+ {
+  "title": "ともなく",
+  "level": "N1",
+  "meaning": "Absentmindedly"
+ },
+ {
+  "title": "ともなると",
+  "level": "N1",
+  "meaning": "When"
+ },
+ {
+  "title": "と思いきや",
+  "level": "N1",
+  "meaning": "Thought...but"
+ },
+ {
+  "title": "と来たら",
+  "level": "N1",
+  "meaning": "For …(is the best)"
+ },
+ {
+  "title": "どうにか",
+  "level": "N1",
+  "meaning": "Somehow (or other)"
+ },
+ {
+  "title": "どうにも",
+  "level": "N1",
+  "meaning": "Cannot"
+ },
+ {
+  "title": "ないでもない",
+  "level": "N1",
+  "meaning": "Kind of"
+ },
+ {
+  "title": "ないまでも",
+  "level": "N1",
+  "meaning": "May not … but (at least)"
+ },
+ {
+  "title": "ながらに",
+  "level": "N1",
+  "meaning": "While being"
+ },
+ {
+  "title": "なくして(は)",
+  "level": "N1",
+  "meaning": "Without"
+ },
+ {
+  "title": "なら〜で",
+  "level": "N1",
+  "meaning": "If ~ should"
+ },
+ {
+  "title": "ならいざ知らず",
+  "level": "N1",
+  "meaning": "Don’t know about it"
+ },
+ {
+  "title": "ならでは",
+  "level": "N1",
+  "meaning": "Unique to"
+ },
+ {
+  "title": "ならまだしも",
+  "level": "N1",
+  "meaning": "A is fine...but B is not"
+ },
+ {
+  "title": "なり",
+  "level": "N1",
+  "meaning": "As soon as"
+ },
+ {
+  "title": "なりとも",
+  "level": "N1",
+  "meaning": "Even (a little)"
+ },
+ {
+  "title": "なりに",
+  "level": "N1",
+  "meaning": "In one's own way"
+ },
+ {
+  "title": "にあって",
+  "level": "N1",
+  "meaning": "At"
+ },
+ {
+  "title": "にかかっている",
+  "level": "N1",
+  "meaning": "To depend on"
+ },
+ {
+  "title": "にかこつけて",
+  "level": "N1",
+  "meaning": "In the name of"
+ },
+ {
+  "title": "にしたところで",
+  "level": "N1",
+  "meaning": "Even"
+ },
+ {
+  "title": "にして①",
+  "level": "N1",
+  "meaning": "At"
+ },
+ {
+  "title": "にして②",
+  "level": "N1",
+  "meaning": "To be ~ and ~"
+ },
+ {
+  "title": "にしてみれば",
+  "level": "N1",
+  "meaning": "For (A)"
+ },
+ {
+  "title": "にとどまらず",
+  "level": "N1",
+  "meaning": "Not limited to"
+ },
+ {
+  "title": "には及ばない①",
+  "level": "N1",
+  "meaning": "There is no need to"
+ },
+ {
+  "title": "には及ばない②",
+  "level": "N1",
+  "meaning": "To be no match (for)"
+ },
+ {
+  "title": "には当たらない",
+  "level": "N1",
+  "meaning": "No need to/for"
+ },
+ {
+  "title": "にひきかえ",
+  "level": "N1",
+  "meaning": "In stark contrast"
+ },
+ {
+  "title": "にまつわる",
+  "level": "N1",
+  "meaning": "Surrounding"
+ },
+ {
+  "title": "にもほどがある",
+  "level": "N1",
+  "meaning": "There is a limit to"
+ },
+ {
+  "title": "にもまして",
+  "level": "N1",
+  "meaning": "Even -er than"
+ },
+ {
+  "title": "にも～ない",
+  "level": "N1",
+  "meaning": "Cannot... even if one ..."
+ },
+ {
+  "title": "に先駆けて",
+  "level": "N1",
+  "meaning": "First"
+ },
+ {
+  "title": "に則って",
+  "level": "N1",
+  "meaning": "According to"
+ },
+ {
+  "title": "に即して",
+  "level": "N1",
+  "meaning": "In line with"
+ },
+ {
+  "title": "に堪えない",
+  "level": "N1",
+  "meaning": "Cannot bear to"
+ },
+ {
+  "title": "に恥じない",
+  "level": "N1",
+  "meaning": "Lives up to"
+ },
+ {
+  "title": "に照らして",
+  "level": "N1",
+  "meaning": "In light of"
+ },
+ {
+  "title": "に至って",
+  "level": "N1",
+  "meaning": "When it came to"
+ },
+ {
+  "title": "に至っては",
+  "level": "N1",
+  "meaning": "When it comes to"
+ },
+ {
+  "title": "に至っても",
+  "level": "N1",
+  "meaning": "Even when"
+ },
+ {
+  "title": "に至るまで",
+  "level": "N1",
+  "meaning": "(Everything) from...to..."
+ },
+ {
+  "title": "に言わせれば",
+  "level": "N1",
+  "meaning": "If you ask"
+ },
+ {
+  "title": "に足りない",
+  "level": "N1",
+  "meaning": "To not be worthy"
+ },
+ {
+  "title": "に足る",
+  "level": "N1",
+  "meaning": "To be worthy of"
+ },
+ {
+  "title": "に限ったことではない",
+  "level": "N1",
+  "meaning": "Not limited to"
+ },
+ {
+  "title": "に難くない",
+  "level": "N1",
+  "meaning": "Not hard to"
+ },
+ {
+  "title": "のなんのって",
+  "level": "N1",
+  "meaning": "So much that"
+ },
+ {
+  "title": "の極み",
+  "level": "N1",
+  "meaning": "Ultimate"
+ },
+ {
+  "title": "の至り",
+  "level": "N1",
+  "meaning": "Utmost"
+ },
+ {
+  "title": "はおろか",
+  "level": "N1",
+  "meaning": "Let alone"
+ },
+ {
+  "title": "はさておき",
+  "level": "N1",
+  "meaning": "(Leaving or putting) a..."
+ },
+ {
+  "title": "びる",
+  "level": "N1",
+  "meaning": "-like"
+ },
+ {
+  "title": "べからず",
+  "level": "N1",
+  "meaning": "Do not"
+ },
+ {
+  "title": "べく",
+  "level": "N1",
+  "meaning": "For the purpose of"
+ },
+ {
+  "title": "べくして",
+  "level": "N1",
+  "meaning": "As expected"
+ },
+ {
+  "title": "べくもない",
+  "level": "N1",
+  "meaning": "No (doubt or hope)"
+ },
+ {
+  "title": "まくる",
+  "level": "N1",
+  "meaning": "Like crazy"
+ },
+ {
+  "title": "まじき",
+  "level": "N1",
+  "meaning": "Unbecoming of"
+ },
+ {
+  "title": "までもない",
+  "level": "N1",
+  "meaning": "There is no need to"
+ },
+ {
+  "title": "めく",
+  "level": "N1",
+  "meaning": "Like"
+ },
+ {
+  "title": "もさることながら",
+  "level": "N1",
+  "meaning": "It is a fact that"
+ },
+ {
+  "title": "ものとして",
+  "level": "N1",
+  "meaning": "Assuming"
+ },
+ {
+  "title": "ものとする",
+  "level": "N1",
+  "meaning": "Shall"
+ },
+ {
+  "title": "ものと思う",
+  "level": "N1",
+  "meaning": "Think that"
+ },
+ {
+  "title": "ものと思っていた",
+  "level": "N1",
+  "meaning": "Was under the impressi..."
+ },
+ {
+  "title": "ものなら②",
+  "level": "N1",
+  "meaning": "If you were to do"
+ },
+ {
+  "title": "ものを",
+  "level": "N1",
+  "meaning": "But"
+ },
+ {
+  "title": "や否や",
+  "level": "N1",
+  "meaning": "As soon as"
+ },
+ {
+  "title": "ゆえに",
+  "level": "N1",
+  "meaning": "Because"
+ },
+ {
+  "title": "ようが～まいが",
+  "level": "N1",
+  "meaning": "Even if"
+ },
+ {
+  "title": "ようによっては",
+  "level": "N1",
+  "meaning": "Depending on the way"
+ },
+ {
+  "title": "わ〜わ",
+  "level": "N1",
+  "meaning": "~and ~and"
+ },
+ {
+  "title": "わ〜わ（で）",
+  "level": "N1",
+  "meaning": "And...so"
+ },
+ {
+  "title": "をいいことに",
+  "level": "N1",
+  "meaning": "To take advantage of"
+ },
+ {
+  "title": "をおいてほかに〜ない",
+  "level": "N1",
+  "meaning": "No...but"
+ },
+ {
+  "title": "をもって",
+  "level": "N1",
+  "meaning": "As of"
+ },
+ {
+  "title": "をものともせず",
+  "level": "N1",
+  "meaning": "Making nothing of"
+ },
+ {
+  "title": "をよそに",
+  "level": "N1",
+  "meaning": "Ignoring"
+ },
+ {
+  "title": "を以て",
+  "level": "N1",
+  "meaning": "By means of"
+ },
+ {
+  "title": "を余儀なくさせる",
+  "level": "N1",
+  "meaning": "Force to"
+ },
+ {
+  "title": "を余儀なくされる",
+  "level": "N1",
+  "meaning": "To be forced to do som..."
+ },
+ {
+  "title": "を兼ねて",
+  "level": "N1",
+  "meaning": "And also"
+ },
+ {
+  "title": "を前提に",
+  "level": "N1",
+  "meaning": "On the premise of"
+ },
+ {
+  "title": "を機に",
+  "level": "N1",
+  "meaning": "Opportunity"
+ },
+ {
+  "title": "を皮切りに",
+  "level": "N1",
+  "meaning": "Beginning of"
+ },
+ {
+  "title": "を禁じ得ない",
+  "level": "N1",
+  "meaning": "Cannot help feeling"
+ },
+ {
+  "title": "を経て",
+  "level": "N1",
+  "meaning": "Via"
+ },
+ {
+  "title": "を踏まえて",
+  "level": "N1",
+  "meaning": "Based on"
+ },
+ {
+  "title": "を限りに",
+  "level": "N1",
+  "meaning": "As of (the end of)"
+ },
+ {
+  "title": "んがため(に)",
+  "level": "N1",
+  "meaning": "In order to"
+ },
+ {
+  "title": "んばかりに",
+  "level": "N1",
+  "meaning": "As if"
+ },
+ {
+  "title": "並み",
+  "level": "N1",
+  "meaning": "As"
+ },
+ {
+  "title": "以前",
+  "level": "N1",
+  "meaning": "Before"
+ },
+ {
+  "title": "塗れ",
+  "level": "N1",
+  "meaning": "Stained"
+ },
+ {
+  "title": "如く",
+  "level": "N1",
+  "meaning": "Like"
+ },
+ {
+  "title": "如何",
+  "level": "N1",
+  "meaning": "Depending on"
+ },
+ {
+  "title": "始末だ",
+  "level": "N1",
+  "meaning": "Ends up"
+ },
+ {
+  "title": "折には",
+  "level": "N1",
+  "meaning": "When"
+ },
+ {
+  "title": "極まりない",
+  "level": "N1",
+  "meaning": "Extreme"
+ },
+ {
+  "title": "次第です",
+  "level": "N1",
+  "meaning": "Because the reason is"
+ },
+ {
+  "title": "相まって",
+  "level": "N1",
+  "meaning": "Combined with"
+ },
+ {
+  "title": "訳あり(訳あって)",
+  "level": "N1",
+  "meaning": "～ with reasons"
+ },
+ {
+  "title": "飽くまで(も)",
+  "level": "N1",
+  "meaning": "Just"
+ },
+ {
+  "title": "１～たりとも～ない",
+  "level": "N1",
+  "meaning": "Not even one"
+ },
+ {
+  "title": "～たまでだ",
+  "level": "N1",
+  "meaning": "Just"
+ },
+ {
+  "title": "～てやる",
+  "level": "N1",
+  "meaning": "Just wait and see"
+ },
+ {
+  "title": "～なり～なり",
+  "level": "N1",
+  "meaning": "Or"
+ },
+ {
+  "title": "～ばこそ",
+  "level": "N1",
+  "meaning": "Precisely because"
+ },
+ {
+  "title": "～るまでだ",
+  "level": "N1",
+  "meaning": "Just"
+ },
+ {
   "title": "〜ようではないか",
   "level": "N2",
   "meaning": "Let's do something"
@@ -1483,12 +2388,6 @@
   "id": 308
  },
  {
-  "title": "って",
-  "level": "N3",
-  "meaning": "As for, Speaking of, Casual は (Sentence topic marker)",
-  "id": 435
- },
- {
   "title": "っぱなし",
   "level": "N3",
   "meaning": "Leaving something in a certain state, Left as is, Keep on -ing",
@@ -1860,12 +2759,6 @@
   "level": "N3",
   "meaning": "Nothing better than, There's nothing like, Limited to",
   "id": 472
- },
- {
-  "title": "のに",
-  "level": "N3",
-  "meaning": "In order to",
-  "id": 440
  },
  {
   "title": "のはXの方だ",
@@ -2372,5 +3265,1747 @@
   "level": "N3",
   "meaning": "It is (has been), Have/has become, Happen to be, Has been established",
   "id": 636
+ },
+ {
+  "title": "Causative-Pa...",
+  "level": "N4",
+  "meaning": "Verbs (Causative-passi..."
+ },
+ {
+  "title": "Number + しか〜ない",
+  "level": "N4",
+  "meaning": "No more than, Not exceeding, As few as・as little as, Only",
+  "id": 725
+ },
+ {
+  "title": "Number + も",
+  "level": "N4",
+  "meaning": "Emphasis, As ~ as, Not even",
+  "id": 119
+ },
+ {
+  "title": "Number/Amoun...",
+  "level": "N4",
+  "meaning": "At least"
+ },
+ {
+  "title": "Question-phr...",
+  "level": "N4",
+  "meaning": "Including questions wi..."
+ },
+ {
+  "title": "Verb[て]",
+  "level": "N4",
+  "meaning": "Please do for me (Casual request)",
+  "id": 777
+ },
+ {
+  "title": "Verb[て] + B",
+  "level": "N4",
+  "meaning": "Non-sequence, And, But (Contrast), Parallel action/state",
+  "id": 776
+ },
+ {
+  "title": "Verb[ないで]",
+  "level": "N4",
+  "meaning": "(Please) do not (for me), Casual request",
+  "id": 778
+ },
+ {
+  "title": "Verb[よう]",
+  "level": "N4",
+  "meaning": "Let's, I shall (Casual volitional)",
+  "id": 121
+ },
+ {
+  "title": "Verb［せる",
+  "level": "N4",
+  "meaning": "To make/let/have (some..."
+ },
+ {
+  "title": "Verb［れる",
+  "level": "N4",
+  "meaning": "Was done to ~ by ~"
+ },
+ {
+  "title": "〜でも 〜でも",
+  "level": "N4",
+  "meaning": "Whether ~ or, Neither ~ or",
+  "id": 387
+ },
+ {
+  "title": "〜ようと思う",
+  "level": "N4",
+  "meaning": "I think I will"
+ },
+ {
+  "title": "あとで",
+  "level": "N4",
+  "meaning": "After, Later",
+  "id": 116
+ },
+ {
+  "title": "あまり～ない",
+  "level": "N4",
+  "meaning": "Not very, Not much, Not really, Hardly",
+  "id": 374
+ },
+ {
+  "title": "いか",
+  "level": "N4",
+  "meaning": "Less than (or equal to), Under・(and) below, Any less・fewer, Not exceeding",
+  "id": 383
+ },
+ {
+  "title": "いがい",
+  "level": "N4",
+  "meaning": "Except・besides, Other than, With the exception of",
+  "id": 390
+ },
+ {
+  "title": "いたす",
+  "level": "N4",
+  "meaning": "To do (Humble), To venerably do",
+  "id": 192
+ },
+ {
+  "title": "いらっしゃる",
+  "level": "N4",
+  "meaning": "To be (Honorific), To come (Honorific), To go (Honorific)",
+  "id": 191
+ },
+ {
+  "title": "お〜する",
+  "level": "N4",
+  "meaning": "I humbly do, I am obliged to do, Humble speech",
+  "id": 726
+ },
+ {
+  "title": "おわる",
+  "level": "N4",
+  "meaning": "To finish, To end",
+  "id": 126
+ },
+ {
+  "title": "お～ください",
+  "level": "N4",
+  "meaning": "Please do (Honorific)",
+  "id": 189
+ },
+ {
+  "title": "お～になる",
+  "level": "N4",
+  "meaning": "To do (Honorific)",
+  "id": 190
+ },
+ {
+  "title": "かい",
+  "level": "N4",
+  "meaning": "Question marker",
+  "id": 175
+ },
+ {
+  "title": "かしら",
+  "level": "N4",
+  "meaning": "I wonder",
+  "id": 194
+ },
+ {
+  "title": "かた",
+  "level": "N4",
+  "meaning": "Way of ~ing, How to ~, Manner of ~ing",
+  "id": 729
+ },
+ {
+  "title": "かどうか",
+  "level": "N4",
+  "meaning": "Whether or not, If...or not",
+  "id": 156
+ },
+ {
+  "title": "かな",
+  "level": "N4",
+  "meaning": "I wonder",
+  "id": 120
+ },
+ {
+  "title": "かもしれない",
+  "level": "N4",
+  "meaning": "Might, Maybe, Probably",
+  "id": 113
+ },
+ {
+  "title": "がする",
+  "level": "N4",
+  "meaning": "To give off, Smell, Sound, Taste, Sensation",
+  "id": 117
+ },
+ {
+  "title": "がひつよう",
+  "level": "N4",
+  "meaning": "Need, Necessary",
+  "id": 127
+ },
+ {
+  "title": "がほしい",
+  "level": "N4",
+  "meaning": "To want something, To be in need of",
+  "id": 91
+ },
+ {
+  "title": "がみられる",
+  "level": "N4",
+  "meaning": "Can see, Can be seen, Can observe, Can be observed, Be evident, Chance to see something",
+  "id": 622
+ },
+ {
+  "title": "がる",
+  "level": "N4",
+  "meaning": "To feel, To think, To act as if, To want, To desire",
+  "id": 112
+ },
+ {
+  "title": "く",
+  "level": "N4",
+  "meaning": "～ly (Describing verbs)"
+ },
+ {
+  "title": "こと",
+  "level": "N4",
+  "meaning": "Converting a verb into a noun",
+  "id": 98
+ },
+ {
+  "title": "ことができる",
+  "level": "N4",
+  "meaning": "Can, Be able to",
+  "id": 110
+ },
+ {
+  "title": "ございます",
+  "level": "N4",
+  "meaning": "To be, To exist (Polite)",
+  "id": 187
+ },
+ {
+  "title": "ごとに",
+  "level": "N4",
+  "meaning": "Each, Every",
+  "id": 388
+ },
+ {
+  "title": "ごろ",
+  "level": "N4",
+  "meaning": "Around, About",
+  "id": 125
+ },
+ {
+  "title": "さ",
+  "level": "N4",
+  "meaning": "Converting adjectives to nouns",
+  "id": 111
+ },
+ {
+  "title": "しか～ない",
+  "level": "N4",
+  "meaning": "There's only, Nothing but",
+  "id": 182
+ },
+ {
+  "title": "し～し",
+  "level": "N4",
+  "meaning": "And, Giving reasons",
+  "id": 141
+ },
+ {
+  "title": "じゃないか",
+  "level": "N4",
+  "meaning": "Isn't it?, Is it not?",
+  "id": 173
+ },
+ {
+  "title": "すくなくない",
+  "level": "N4",
+  "meaning": "Quite a few, Quite a lot, Many, Not a few, Not a little",
+  "id": 650
+ },
+ {
+  "title": "すこしも～ない",
+  "level": "N4",
+  "meaning": "Not even a little, Not at all, Not in the least, Never",
+  "id": 381
+ },
+ {
+  "title": "ずっと ①",
+  "level": "N4",
+  "meaning": "Continuously, All throughout, Entire time, Ever (since), The whole time, All the way",
+  "id": 667
+ },
+ {
+  "title": "ぜんぜん",
+  "level": "N4",
+  "meaning": "(Not) at all",
+  "id": 375
+ },
+ {
+  "title": "そう",
+  "level": "N4",
+  "meaning": "Look like, Appear, Seem, Have a feeling that",
+  "id": 105
+ },
+ {
+  "title": "そういう",
+  "level": "N4",
+  "meaning": "Like that, Kind of",
+  "id": 365
+ },
+ {
+  "title": "そうに",
+  "level": "N4",
+  "meaning": "Seem"
+ },
+ {
+  "title": "それで",
+  "level": "N4",
+  "meaning": "Because of that, So?, And then?, Therefore, With that",
+  "id": 632
+ },
+ {
+  "title": "それでも",
+  "level": "N4",
+  "meaning": "But still, And yet, Even so, Nevertheless",
+  "id": 186
+ },
+ {
+  "title": "それに",
+  "level": "N4",
+  "meaning": "And, Besides, Moreover, In addition",
+  "id": 389
+ },
+ {
+  "title": "そんな",
+  "level": "N4",
+  "meaning": "Such a・Kind of"
+ },
+ {
+  "title": "そんなに",
+  "level": "N4",
+  "meaning": "So (much), That much, Like that",
+  "id": 144
+ },
+ {
+  "title": "たがる",
+  "level": "N4",
+  "meaning": "To want to (Third person)",
+  "id": 124
+ },
+ {
+  "title": "たとえば",
+  "level": "N4",
+  "meaning": "For example",
+  "id": 376
+ },
+ {
+  "title": "たところだ",
+  "level": "N4",
+  "meaning": "Just finished doing, Was just doing",
+  "id": 146
+ },
+ {
+  "title": "たばかり",
+  "level": "N4",
+  "meaning": "Just did, Something just happened",
+  "id": 165
+ },
+ {
+  "title": "たら",
+  "level": "N4",
+  "meaning": "When, From when, Just when, If",
+  "id": 102
+ },
+ {
+  "title": "たらどう",
+  "level": "N4",
+  "meaning": "Why don't you...?, What if you did...?",
+  "id": 177
+ },
+ {
+  "title": "だいたい",
+  "level": "N4",
+  "meaning": "Most・mostly, Adequately・generally, For the most part, Roughly・approximately, In the first place",
+  "id": 673
+ },
+ {
+  "title": "だが",
+  "level": "N4",
+  "meaning": "But"
+ },
+ {
+  "title": "だけで",
+  "level": "N4",
+  "meaning": "Just by, Just with",
+  "id": 109
+ },
+ {
+  "title": "だけでなく",
+  "level": "N4",
+  "meaning": "Not only… but also",
+  "id": 380
+ },
+ {
+  "title": "だす",
+  "level": "N4",
+  "meaning": "To suddenly begin, To start doing",
+  "id": 178
+ },
+ {
+  "title": "だんだん",
+  "level": "N4",
+  "meaning": "Gradually, Little by little, Step by step",
+  "id": 672
+ },
+ {
+  "title": "つづける",
+  "level": "N4",
+  "meaning": "To continue",
+  "id": 180
+ },
+ {
+  "title": "てあげる",
+  "level": "N4",
+  "meaning": "To do something for someone, As a favor for",
+  "id": 92
+ },
+ {
+  "title": "てある",
+  "level": "N4",
+  "meaning": "Something is done, Has been done, Remaining state",
+  "id": 159
+ },
+ {
+  "title": "ていく",
+  "level": "N4",
+  "meaning": "To ~ and go, To go on, To start",
+  "id": 137
+ },
+ {
+  "title": "ていた",
+  "level": "N4",
+  "meaning": "Was doing ~",
+  "id": 136
+ },
+ {
+  "title": "ていただけませんか",
+  "level": "N4",
+  "meaning": "Won't you, Could you please (Humble request)",
+  "id": 134
+ },
+ {
+  "title": "ているあいだに",
+  "level": "N4",
+  "meaning": "While, During the time that ~",
+  "id": 160
+ },
+ {
+  "title": "ているところだ",
+  "level": "N4",
+  "meaning": "In the process of doing ~ right now/at this moment",
+  "id": 150
+ },
+ {
+  "title": "ておく",
+  "level": "N4",
+  "meaning": "To do something in advance",
+  "id": 162
+ },
+ {
+  "title": "てくる",
+  "level": "N4",
+  "meaning": "To come to, To become, To continue, To be starting to, Has been ~ing",
+  "id": 128
+ },
+ {
+  "title": "てくれてありがとう",
+  "level": "N4",
+  "meaning": "Thank you for ~ ing",
+  "id": 371
+ },
+ {
+  "title": "てくれない",
+  "level": "N4",
+  "meaning": "Won't you?"
+ },
+ {
+  "title": "てくれる",
+  "level": "N4",
+  "meaning": "To do something for someone (usually you)",
+  "id": 103
+ },
+ {
+  "title": "てしまう",
+  "level": "N4",
+  "meaning": "To do something by acc..."
+ },
+ {
+  "title": "てすみません",
+  "level": "N4",
+  "meaning": "I'm sorry for",
+  "id": 106
+ },
+ {
+  "title": "てほしい",
+  "level": "N4",
+  "meaning": "I want you to",
+  "id": 101
+ },
+ {
+  "title": "てみる",
+  "level": "N4",
+  "meaning": "To try to",
+  "id": 99
+ },
+ {
+  "title": "ても",
+  "level": "N4",
+  "meaning": "Even if, Even though",
+  "id": 174
+ },
+ {
+  "title": "てもらう",
+  "level": "N4",
+  "meaning": "To get someone to do, To have someone do",
+  "id": 114
+ },
+ {
+  "title": "てよかった",
+  "level": "N4",
+  "meaning": "I'm glad that",
+  "id": 140
+ },
+ {
+  "title": "でございます",
+  "level": "N4",
+  "meaning": "To be, Polite copula",
+  "id": 188
+ },
+ {
+  "title": "でできる",
+  "level": "N4",
+  "meaning": "Made of"
+ },
+ {
+  "title": "でも",
+  "level": "N4",
+  "meaning": "Or something,  Any... (with question words), No matter (who)",
+  "id": 88
+ },
+ {
+  "title": "といい",
+  "level": "N4",
+  "meaning": "I hope, I wish, You should, It would be good",
+  "id": 129
+ },
+ {
+  "title": "ということ",
+  "level": "N4",
+  "meaning": "~ing, The ~ that ~ (Nominalization)",
+  "id": 185
+ },
+ {
+  "title": "といってもいい",
+  "level": "N4",
+  "meaning": "You could say, You might say",
+  "id": 147
+ },
+ {
+  "title": "といわれている",
+  "level": "N4",
+  "meaning": "It is said that, Is known as",
+  "id": 184
+ },
+ {
+  "title": "とうとう",
+  "level": "N4",
+  "meaning": "Finally, After all",
+  "id": 368
+ },
+ {
+  "title": "とおもう",
+  "level": "N4",
+  "meaning": "I think",
+  "id": 94
+ },
+ {
+  "title": "とかんがえられている",
+  "level": "N4",
+  "meaning": "Is considered, Is thought of as",
+  "id": 392
+ },
+ {
+  "title": "とか～とか",
+  "level": "N4",
+  "meaning": "Among other things, For example, Such as",
+  "id": 131
+ },
+ {
+  "title": "とき",
+  "level": "N4",
+  "meaning": "When, At the time of",
+  "id": 93
+ },
+ {
+  "title": "ときいた",
+  "level": "N4",
+  "meaning": "I heard that",
+  "id": 157
+ },
+ {
+  "title": "とされている",
+  "level": "N4",
+  "meaning": "To be considered, To be deemed, Be regarded as, Be accepted as, To be said, To be accredited with",
+  "id": 659
+ },
+ {
+  "title": "とみえる",
+  "level": "N4",
+  "meaning": "It seems that, It can be deduced, One can conclude that",
+  "id": 179
+ },
+ {
+  "title": "と～と、どちらが",
+  "level": "N4",
+  "meaning": "Between ~ which one",
+  "id": 152
+ },
+ {
+  "title": "どんどん",
+  "level": "N4",
+  "meaning": "Progressively, Rapidly increasing, More and more",
+  "id": 362
+ },
+ {
+  "title": "ないで",
+  "level": "N4",
+  "meaning": "Without doing, Not ~ and ~",
+  "id": 96
+ },
+ {
+  "title": "ないと",
+  "level": "N4",
+  "meaning": "Must, Have to",
+  "id": 766
+ },
+ {
+  "title": "なおす",
+  "level": "N4",
+  "meaning": "To do over, To redo",
+  "id": 393
+ },
+ {
+  "title": "ながら",
+  "level": "N4",
+  "meaning": "While ~ing, During, As",
+  "id": 148
+ },
+ {
+  "title": "なくて",
+  "level": "N4",
+  "meaning": "Not ~ and, Not so, Because not (Examples)",
+  "id": 775
+ },
+ {
+  "title": "なくてもいい",
+  "level": "N4",
+  "meaning": "Don't have to",
+  "id": 171
+ },
+ {
+  "title": "なければいけない",
+  "level": "N4",
+  "meaning": "Must do, Have to do",
+  "id": 169
+ },
+ {
+  "title": "なければならない",
+  "level": "N4",
+  "meaning": "Must do, Have to do",
+  "id": 170
+ },
+ {
+  "title": "なさい",
+  "level": "N4",
+  "meaning": "Command to do",
+  "id": 95
+ },
+ {
+  "title": "なさる",
+  "level": "N4",
+  "meaning": "To do (Honorific)",
+  "id": 193
+ },
+ {
+  "title": "など",
+  "level": "N4",
+  "meaning": "Such as, Things like, Etc., And so on",
+  "id": 89
+ },
+ {
+  "title": "なら",
+  "level": "N4",
+  "meaning": "Were it, If, If it's the case, As for (Conditional)",
+  "id": 123
+ },
+ {
+  "title": "なるべく",
+  "level": "N4",
+  "meaning": "As ~ as possible, Wherever practicable",
+  "id": 384
+ },
+ {
+  "title": "なん + counter...",
+  "level": "N4",
+  "meaning": "Some"
+ },
+ {
+  "title": "に (Frequency)",
+  "level": "N4",
+  "meaning": "Times (In each time period), Every, Frequency of",
+  "id": 142
+ },
+ {
+  "title": "にきがつく",
+  "level": "N4",
+  "meaning": "To notice (that), To realize (that)",
+  "id": 167
+ },
+ {
+  "title": "にくい",
+  "level": "N4",
+  "meaning": "Difficult to, Hard to",
+  "id": 100
+ },
+ {
+  "title": "にみえる",
+  "level": "N4",
+  "meaning": "To look, To seem, To appear",
+  "id": 166
+ },
+ {
+  "title": "のなかで",
+  "level": "N4",
+  "meaning": "In, Among, Within",
+  "id": 183
+ },
+ {
+  "title": "のに",
+  "level": "N4",
+  "meaning": "Despite, Although, Even though",
+  "id": 130
+ },
+ {
+  "title": "のように",
+  "level": "N4",
+  "meaning": "Like (Noun)"
+ },
+ {
+  "title": "はじめる",
+  "level": "N4",
+  "meaning": "To start, To begin to",
+  "id": 115
+ },
+ {
+  "title": "はずがない",
+  "level": "N4",
+  "meaning": "Hardly possible, Cannot be, Highly unlikely, Improbable",
+  "id": 161
+ },
+ {
+  "title": "はずだ",
+  "level": "N4",
+  "meaning": "Bound to (be), Expected to (be), Should be (able)",
+  "id": 151
+ },
+ {
+  "title": "ば",
+  "level": "N4",
+  "meaning": "If… then, (Conditional)",
+  "id": 154
+ },
+ {
+  "title": "ばあいは",
+  "level": "N4",
+  "meaning": "In the event of, In the case of",
+  "id": 133
+ },
+ {
+  "title": "ばよかった",
+  "level": "N4",
+  "meaning": "Should have, I wish, It would have been better to",
+  "id": 163
+ },
+ {
+  "title": "ひつようがある",
+  "level": "N4",
+  "meaning": "It is necessary to",
+  "id": 139
+ },
+ {
+  "title": "ほかに(も)",
+  "level": "N4",
+  "meaning": "Other"
+ },
+ {
+  "title": "ほとんど",
+  "level": "N4",
+  "meaning": "Almost all, Most, Hardly any, Few (Adverbial noun)",
+  "id": 367
+ },
+ {
+  "title": "まい～のように",
+  "level": "N4",
+  "meaning": "Almost every ~, Nearly every ~, On a ~ basis",
+  "id": 626
+ },
+ {
+  "title": "まず",
+  "level": "N4",
+  "meaning": "To start with, Firstly",
+  "id": 363
+ },
+ {
+  "title": "また",
+  "level": "N4",
+  "meaning": "Also, As well, Moreover, Again, Additionally",
+  "id": 364
+ },
+ {
+  "title": "まで",
+  "level": "N4",
+  "meaning": "Even, To even, To the extent of",
+  "id": 372
+ },
+ {
+  "title": "までに",
+  "level": "N4",
+  "meaning": "By ~, By the time that ~, Before ~",
+  "id": 104
+ },
+ {
+  "title": "みたい",
+  "level": "N4",
+  "meaning": "Like, Similar to, Resembling",
+  "id": 97
+ },
+ {
+  "title": "みたいに",
+  "level": "N4",
+  "meaning": "Like"
+ },
+ {
+  "title": "もし",
+  "level": "N4",
+  "meaning": "If (For emphasis)",
+  "id": 377
+ },
+ {
+  "title": "やすい",
+  "level": "N4",
+  "meaning": "Easy to, Likely to",
+  "id": 90
+ },
+ {
+  "title": "ようだ",
+  "level": "N4",
+  "meaning": "It seems that, It appears that, It looks like",
+  "id": 149
+ },
+ {
+  "title": "ように",
+  "level": "N4",
+  "meaning": "So that, In order to, In such a way that",
+  "id": 628
+ },
+ {
+  "title": "ようにいう",
+  "level": "N4",
+  "meaning": "To tell, request, or order to do (in such a way)",
+  "id": 386
+ },
+ {
+  "title": "ようにいのる",
+  "level": "N4",
+  "meaning": "Pray that/for, Hope that/for, Keep fingers crossed that",
+  "id": 638
+ },
+ {
+  "title": "ようにする",
+  "level": "N4",
+  "meaning": "To try to, To make sure to, To endeavor to",
+  "id": 158
+ },
+ {
+  "title": "ようになる",
+  "level": "N4",
+  "meaning": "To reach the point that, To come to be that, To turn into",
+  "id": 168
+ },
+ {
+  "title": "ように～てほしい",
+  "level": "N4",
+  "meaning": "Want ~ to ~ like ~, Want ~ to be able to ~, Want ~ to ~ in the way of ~",
+  "id": 379
+ },
+ {
+  "title": "よていだ",
+  "level": "N4",
+  "meaning": "Plan to, Intend to",
+  "id": 181
+ },
+ {
+  "title": "より",
+  "level": "N4",
+  "meaning": "More than, Over",
+  "id": 108
+ },
+ {
+  "title": "らしい ①",
+  "level": "N4",
+  "meaning": "Seems like, Apparently, I heard",
+  "id": 155
+ },
+ {
+  "title": "らしい ②",
+  "level": "N4",
+  "meaning": "typical of, -ish・like, appropriate for, becoming of, befitting",
+  "id": 637
+ },
+ {
+  "title": "るところだ",
+  "level": "N4",
+  "meaning": "About to, On the verge of",
+  "id": 135
+ },
+ {
+  "title": "れる",
+  "level": "N4",
+  "meaning": "To be able"
+ },
+ {
+  "title": "んだけど",
+  "level": "N4",
+  "meaning": "But..."
+ },
+ {
+  "title": "他動詞",
+  "level": "N4",
+  "meaning": "Done through action vs..."
+ },
+ {
+  "title": "以上 ①",
+  "level": "N4",
+  "meaning": "More than (or equal to), Over・(and) above, Any more・Greater, Exceeding",
+  "id": 382
+ },
+ {
+  "title": "化する",
+  "level": "N4",
+  "meaning": "-ification, -ization, To make something, To change, To become, Transform into",
+  "id": 635
+ },
+ {
+  "title": "各",
+  "level": "N4",
+  "meaning": "Each, Every, Respective, Various",
+  "id": 652
+ },
+ {
+  "title": "命令形",
+  "level": "N4",
+  "meaning": "(Verb)!, Do (something)!",
+  "id": 1032
+ },
+ {
+  "title": "真(っ)",
+  "level": "N4",
+  "meaning": "Completely, Exactly, Right",
+  "id": 394
+ },
+ {
+  "title": "聞こえる",
+  "level": "N4",
+  "meaning": "To be audible, To sound (like), (Can) hear, To be heard",
+  "id": 767
+ },
+ {
+  "title": "見える",
+  "level": "N4",
+  "meaning": "To be visible, To seem, To be in sight",
+  "id": 768
+ },
+ {
+  "title": "風",
+  "level": "N4",
+  "meaning": "-style, Way, Fashion",
+  "id": 653
+ },
+ {
+  "title": "～ない～はない",
+  "level": "N4",
+  "meaning": "There is not ~ that is not/does not",
+  "id": 378
+ },
+ {
+  "title": "～にする",
+  "level": "N4",
+  "meaning": "Adjective + する"
+ },
+ {
+  "title": "～のだろうか",
+  "level": "N4",
+  "meaning": "I wonder...",
+  "id": 366
+ },
+ {
+  "title": "～は～の一つだ",
+  "level": "N4",
+  "meaning": "〜 is one of (many) 〜",
+  "id": 391
+ },
+ {
+  "title": "～ら",
+  "level": "N4",
+  "meaning": "We, Them, They, These, Those",
+  "id": 385
+ },
+ {
+  "title": "～代",
+  "level": "N4",
+  "meaning": "Teens, Twenties, Thirties, 1910s, 20s/30s",
+  "id": 668
+ },
+ {
+  "title": "Adjective + ...",
+  "level": "N5",
+  "meaning": "And..."
+ },
+ {
+  "title": "Adjective + て",
+  "level": "N5",
+  "meaning": "And... (Conjunctive)"
+ },
+ {
+  "title": "Noun + まで",
+  "level": "N5",
+  "meaning": "Until, Till,  To (but no further than)",
+  "id": 58
+ },
+ {
+  "title": "Verb + て",
+  "level": "N5",
+  "meaning": "And, Then (Linking events)",
+  "id": 416
+ },
+ {
+  "title": "Verb + て+ B",
+  "level": "N5",
+  "meaning": "And, And then, After that (sequence)",
+  "id": 770
+ },
+ {
+  "title": "Verb + てもいい",
+  "level": "N5",
+  "meaning": "It's okay to, It's alright to, Can/may",
+  "id": 35
+ },
+ {
+  "title": "Verb + にいく",
+  "level": "N5",
+  "meaning": "To go ~, To go in order to ~",
+  "id": 48
+ },
+ {
+  "title": "Verb + まで",
+  "level": "N5",
+  "meaning": "Until (something) happens",
+  "id": 360
+ },
+ {
+  "title": "Verbs (Non-p...",
+  "level": "N5",
+  "meaning": "(Non-past)"
+ },
+ {
+  "title": "Verb［た",
+  "level": "N5",
+  "meaning": "Verb modified noun"
+ },
+ {
+  "title": "あげる",
+  "level": "N5",
+  "meaning": "To give (away), To present, To provide",
+  "id": 722
+ },
+ {
+  "title": "あそこ",
+  "level": "N5",
+  "meaning": "Over there",
+  "id": 29
+ },
+ {
+  "title": "あの",
+  "level": "N5",
+  "meaning": "That (over there)",
+  "id": 47
+ },
+ {
+  "title": "あれ",
+  "level": "N5",
+  "meaning": "That (over there)",
+  "id": 19
+ },
+ {
+  "title": "い-Adjective ...",
+  "level": "N5",
+  "meaning": "Was"
+ },
+ {
+  "title": "い-Adjectives",
+  "level": "N5",
+  "meaning": "Adjectives ending in い",
+  "id": 24
+ },
+ {
+  "title": "い-Adjectives...",
+  "level": "N5",
+  "meaning": "Not (Adjective)"
+ },
+ {
+  "title": "いい",
+  "level": "N5",
+  "meaning": "い-Adjective meaning 'good'",
+  "id": 7
+ },
+ {
+  "title": "う-Verb (Dict...",
+  "level": "N5",
+  "meaning": "う + ます (Godan Verbs)"
+ },
+ {
+  "title": "う-Verb (Nega...",
+  "level": "N5",
+  "meaning": "Will/Does/Do (not)"
+ },
+ {
+  "title": "う-Verb (Past)",
+  "level": "N5",
+  "meaning": "う - Verbs (Past tense)",
+  "id": 41
+ },
+ {
+  "title": "か",
+  "level": "N5",
+  "meaning": "Or",
+  "id": 33
+ },
+ {
+  "title": "から",
+  "level": "N5",
+  "meaning": "From",
+  "id": 52
+ },
+ {
+  "title": "が",
+  "level": "N5",
+  "meaning": "But, However",
+  "id": 44
+ },
+ {
+  "title": "がある",
+  "level": "N5",
+  "meaning": "To be, There is",
+  "id": 13
+ },
+ {
+  "title": "がある + Noun",
+  "level": "N5",
+  "meaning": "Noun (B) that has Noun (A), Noun (B) with Noun (A)",
+  "id": 355
+ },
+ {
+  "title": "がいる",
+  "level": "N5",
+  "meaning": "To be, There is,  To remain (in a state)",
+  "id": 23
+ },
+ {
+  "title": "きらい",
+  "level": "N5",
+  "meaning": "Dislike, Not fond of",
+  "id": 717
+ },
+ {
+  "title": "くらい ①",
+  "level": "N5",
+  "meaning": "About, Approximately",
+  "id": 61
+ },
+ {
+  "title": "くる",
+  "level": "N5",
+  "meaning": "To come",
+  "id": 39
+ },
+ {
+  "title": "くれる",
+  "level": "N5",
+  "meaning": "To give (me), To be given",
+  "id": 723
+ },
+ {
+  "title": "けっこう",
+  "level": "N5",
+  "meaning": "Quite, A lot, Fairly, Rather",
+  "id": 359
+ },
+ {
+  "title": "けど",
+  "level": "N5",
+  "meaning": "But"
+ },
+ {
+  "title": "けれども",
+  "level": "N5",
+  "meaning": "But, Although",
+  "id": 54
+ },
+ {
+  "title": "ここ",
+  "level": "N5",
+  "meaning": "Here, This place",
+  "id": 14
+ },
+ {
+  "title": "この",
+  "level": "N5",
+  "meaning": "This",
+  "id": 30
+ },
+ {
+  "title": "これ",
+  "level": "N5",
+  "meaning": "This",
+  "id": 5
+ },
+ {
+  "title": "じゃない",
+  "level": "N5",
+  "meaning": "Is not, Isn't",
+  "id": 49
+ },
+ {
+  "title": "じゃなかった",
+  "level": "N5",
+  "meaning": "Was not, Wasn't",
+  "id": 50
+ },
+ {
+  "title": "すぎる",
+  "level": "N5",
+  "meaning": "Too much, Very",
+  "id": 76
+ },
+ {
+  "title": "する",
+  "level": "N5",
+  "meaning": "To do, To make into",
+  "id": 22
+ },
+ {
+  "title": "そこ",
+  "level": "N5",
+  "meaning": "There, That place",
+  "id": 20
+ },
+ {
+  "title": "その",
+  "level": "N5",
+  "meaning": "That",
+  "id": 37
+ },
+ {
+  "title": "それ",
+  "level": "N5",
+  "meaning": "That",
+  "id": 11
+ },
+ {
+  "title": "たい",
+  "level": "N5",
+  "meaning": "Want to do",
+  "id": 59
+ },
+ {
+  "title": "たくさん",
+  "level": "N5",
+  "meaning": "Many, A lot of, Plenty, Enough",
+  "id": 715
+ },
+ {
+  "title": "たことがある",
+  "level": "N5",
+  "meaning": "Have done before",
+  "id": 63
+ },
+ {
+  "title": "たほうがいい",
+  "level": "N5",
+  "meaning": "It'd be better to, Should do",
+  "id": 68
+ },
+ {
+  "title": "たり～たりする",
+  "level": "N5",
+  "meaning": "Things like ~ and ~",
+  "id": 79
+ },
+ {
+  "title": "だ",
+  "level": "N5",
+  "meaning": "To be, Is",
+  "id": 1
+ },
+ {
+  "title": "だけ",
+  "level": "N5",
+  "meaning": "Only, Just",
+  "id": 43
+ },
+ {
+  "title": "だった",
+  "level": "N5",
+  "meaning": "Was"
+ },
+ {
+  "title": "だろう",
+  "level": "N5",
+  "meaning": "Right?, Probably, Isn't it?",
+  "id": 18
+ },
+ {
+  "title": "って",
+  "level": "N5",
+  "meaning": "Casual quotation",
+  "id": 358
+ },
+ {
+  "title": "つもりだ",
+  "level": "N5",
+  "meaning": "To plan to, To intend to",
+  "id": 80
+ },
+ {
+  "title": "ている①",
+  "level": "N5",
+  "meaning": "Is, Am, Are (~ing)",
+  "id": 27
+ },
+ {
+  "title": "ている②",
+  "level": "N5",
+  "meaning": "State of being, Has (have) done",
+  "id": 764
+ },
+ {
+  "title": "ている③",
+  "level": "N5",
+  "meaning": "Has/have done, Is ~ing (Repetition)",
+  "id": 765
+ },
+ {
+  "title": "てから",
+  "level": "N5",
+  "meaning": "Once...is done, Once...happens, After doing",
+  "id": 64
+ },
+ {
+  "title": "てください",
+  "level": "N5",
+  "meaning": "Please do (Polite request)",
+  "id": 60
+ },
+ {
+  "title": "てはいけない",
+  "level": "N5",
+  "meaning": "Must not, May not",
+  "id": 67
+ },
+ {
+  "title": "てもいい",
+  "level": "N5",
+  "meaning": "It is alright/fine/okay even if, Can/may, ~ is also okay",
+  "id": 46
+ },
+ {
+  "title": "で",
+  "level": "N5",
+  "meaning": "With, By (using)",
+  "id": 36
+ },
+ {
+  "title": "でしょう",
+  "level": "N5",
+  "meaning": "Right?, Probably, Isn't it?",
+  "id": 9
+ },
+ {
+  "title": "です",
+  "level": "N5",
+  "meaning": "To be, Is",
+  "id": 2
+ },
+ {
+  "title": "と",
+  "level": "N5",
+  "meaning": "Quotation",
+  "id": 356
+ },
+ {
+  "title": "どこ",
+  "level": "N5",
+  "meaning": "Where",
+  "id": 56
+ },
+ {
+  "title": "どの",
+  "level": "N5",
+  "meaning": "Which (of three or more), What (kind)",
+  "id": 713
+ },
+ {
+  "title": "どれ",
+  "level": "N5",
+  "meaning": "Which (of three or more)",
+  "id": 712
+ },
+ {
+  "title": "な",
+  "level": "N5",
+  "meaning": "Do not, Don't (Prohibitive)",
+  "id": 66
+ },
+ {
+  "title": "な-Adjective ...",
+  "level": "N5",
+  "meaning": "Describing a noun"
+ },
+ {
+  "title": "な-Adjective だ",
+  "level": "N5",
+  "meaning": "な-Adjective (Predicate)",
+  "id": 952
+ },
+ {
+  "title": "な-Adjectives",
+  "level": "N5",
+  "meaning": "Adjectives that are also nouns",
+  "id": 28
+ },
+ {
+  "title": "ないでください",
+  "level": "N5",
+  "meaning": "Please don't (Polite request)",
+  "id": 65
+ },
+ {
+  "title": "ないほうがいい",
+  "level": "N5",
+  "meaning": "It'd be better not to, Shouldn't do",
+  "id": 69
+ },
+ {
+  "title": "なくちゃ",
+  "level": "N5",
+  "meaning": "Must do"
+ },
+ {
+  "title": "なくてはいけない",
+  "level": "N5",
+  "meaning": "Must do, Have to do",
+  "id": 86
+ },
+ {
+  "title": "なくてはならない",
+  "level": "N5",
+  "meaning": "Must do, Have to do",
+  "id": 87
+ },
+ {
+  "title": "なにか",
+  "level": "N5",
+  "meaning": "Something"
+ },
+ {
+  "title": "に",
+  "level": "N5",
+  "meaning": "In, At, To, For, On",
+  "id": 32
+ },
+ {
+  "title": "にする",
+  "level": "N5",
+  "meaning": "To decide on, To choose, To make something into, To view something as",
+  "id": 84
+ },
+ {
+  "title": "ね",
+  "level": "N5",
+  "meaning": "Isn't it?, Right? (Sentence ending particle)",
+  "id": 71
+ },
+ {
+  "title": "の",
+  "level": "N5",
+  "meaning": "Possessive use (Noun omission)",
+  "id": 720
+ },
+ {
+  "title": "のがじょうず",
+  "level": "N5",
+  "meaning": "To be good at, Proficient",
+  "id": 77
+ },
+ {
+  "title": "のがすき",
+  "level": "N5",
+  "meaning": "Like doing, Love doing",
+  "id": 34
+ },
+ {
+  "title": "のがへた",
+  "level": "N5",
+  "meaning": "To be bad at, Poor at, Unskillful",
+  "id": 85
+ },
+ {
+  "title": "ので",
+  "level": "N5",
+  "meaning": "Because, So, Since, The reason being",
+  "id": 62
+ },
+ {
+  "title": "のなかで～がいちばん～",
+  "level": "N5",
+  "meaning": "Out of ~, ~ is the best/most ~",
+  "id": 55
+ },
+ {
+  "title": "は",
+  "level": "N5",
+  "meaning": "As for... (Highlights sentence topic)",
+  "id": 3
+ },
+ {
+  "title": "へ",
+  "level": "N5",
+  "meaning": "To, Toward",
+  "id": 38
+ },
+ {
+  "title": "へいく",
+  "level": "N5",
+  "meaning": "To go to, To head toward",
+  "id": 31
+ },
+ {
+  "title": "まえに",
+  "level": "N5",
+  "meaning": "Before, In front of",
+  "id": 53
+ },
+ {
+  "title": "ましょう",
+  "level": "N5",
+  "meaning": "Let's, Shall we (Polite volitional)",
+  "id": 70
+ },
+ {
+  "title": "ます",
+  "level": "N5",
+  "meaning": "Polite Verb Endings",
+  "id": 1082
+ },
+ {
+  "title": "ませんか",
+  "level": "N5",
+  "meaning": "Won't you, Would you not, Why don't we",
+  "id": 82
+ },
+ {
+  "title": "まだ",
+  "level": "N5",
+  "meaning": "Still",
+  "id": 72
+ },
+ {
+  "title": "まだ～ていません",
+  "level": "N5",
+  "meaning": "Still haven't done (something)",
+  "id": 83
+ },
+ {
+  "title": "も",
+  "level": "N5",
+  "meaning": "Also, Too, As well, Even, Either, Neither",
+  "id": 4
+ },
+ {
+  "title": "もう",
+  "level": "N5",
+  "meaning": "Already, Anymore",
+  "id": 42
+ },
+ {
+  "title": "もらう",
+  "level": "N5",
+  "meaning": "To receive, To get, To obtain",
+  "id": 724
+ },
+ {
+  "title": "や",
+  "level": "N5",
+  "meaning": "Things like, And the like",
+  "id": 81
+ },
+ {
+  "title": "よ",
+  "level": "N5",
+  "meaning": "Emphasis (Sentence ending particle)",
+  "id": 78
+ },
+ {
+  "title": "より～のほうが",
+  "level": "N5",
+  "meaning": "To be more ~ than ~",
+  "id": 73
+ },
+ {
+  "title": "る-Verb (Dict...",
+  "level": "N5",
+  "meaning": "る + ます (Ichidan Verbs)"
+ },
+ {
+  "title": "る-Verb (Nega...",
+  "level": "N5",
+  "meaning": "Will/Does/Do (not)"
+ },
+ {
+  "title": "る-Verb (Past)",
+  "level": "N5",
+  "meaning": "る - Verbs (Past tense)",
+  "id": 895
+ },
+ {
+  "title": "を",
+  "level": "N5",
+  "meaning": "Object marking particle",
+  "id": 21
+ },
+ {
+  "title": "好き",
+  "level": "N5",
+  "meaning": "Like, Fond of",
+  "id": 716
+ },
+ {
+  "title": "誰",
+  "level": "N5",
+  "meaning": "Who",
+  "id": 714
+ },
+ {
+  "title": "誰か",
+  "level": "N5",
+  "meaning": "Someone"
+ },
+ {
+  "title": "～になる",
+  "level": "N5",
+  "meaning": "To become (Adjective)"
+ },
+ {
+  "title": "～ましょうか",
+  "level": "N5",
+  "meaning": "Shall we, Shall I",
+  "id": 75
+ },
+ {
+  "title": "～んです",
+  "level": "N5",
+  "meaning": "Explanatory"
+ },
+ {
+  "title": "あわよくば",
+  "level": "Non-JLPT",
+  "meaning": "If luck is on my side"
+ },
+ {
+  "title": "い",
+  "level": "Non-JLPT",
+  "meaning": "So?"
+ },
+ {
+  "title": "いずれも",
+  "level": "Non-JLPT",
+  "meaning": "All (positive)"
+ },
+ {
+  "title": "かろう",
+  "level": "Non-JLPT",
+  "meaning": "Probably"
+ },
+ {
+  "title": "がいい",
+  "level": "Non-JLPT",
+  "meaning": "You should"
+ },
+ {
+  "title": "ぜ",
+  "level": "Non-JLPT",
+  "meaning": "Strong emphasis (frien..."
+ },
+ {
+  "title": "ぞ",
+  "level": "Non-JLPT",
+  "meaning": "Strong emphasis (towar..."
+ },
+ {
+  "title": "つ (Slang)",
+  "level": "Non-JLPT",
+  "meaning": "Called"
+ },
+ {
+  "title": "むず",
+  "level": "Non-JLPT",
+  "meaning": "Shall"
+ },
+ {
+  "title": "やや",
+  "level": "Non-JLPT",
+  "meaning": "A little bit"
+ },
+ {
+  "title": "わ",
+  "level": "Non-JLPT",
+  "meaning": "You know?"
+ },
+ {
+  "title": "ん (Slang)",
+  "level": "Non-JLPT",
+  "meaning": "Slang abbreviation"
+ },
+ {
+  "title": "～やがる",
+  "level": "Non-JLPT",
+  "meaning": "To have the nerve to (A)"
  }
 ]
